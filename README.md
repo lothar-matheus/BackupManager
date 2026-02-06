@@ -106,17 +106,6 @@ backup-manager/
 
 **IMPORTANTE**: Este projeto foi desenvolvido exclusivamente para fins acadêmicos e educacionais como parte de um portfólio em Segurança da Informação.
 
-### Uso Permitido
-- ✅ Backup de seus próprios arquivos e pastas
-- ✅ Uso educacional e aprendizado
-- ✅ Proteção de dados pessoais legítimos
-- ✅ Demonstração de conceitos de criptografia
-
-### Uso Proibido
-- ❌ Criptografar arquivos de terceiros sem autorização
-- ❌ Uso para ocultar atividades ilegais
-- ❌ Violação de políticas de segurança corporativas
-- ❌ Qualquer atividade que viole leis locais ou internacionais
 
 **O desenvolvedor não se responsabiliza por uso inadequado desta ferramenta. Use apenas para propósitos legais e éticos.**
 
@@ -129,22 +118,17 @@ backup-manager/
 
 ## 📝 Autor
 
-Projeto desenvolvido como parte de portfólio em Segurança da Informação.
+Matheus Lemos
 
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-**Resumo da Licença MIT:**
-- ✅ Uso comercial permitido
-- ✅ Modificação permitida
-- ✅ Distribuição permitida
-- ✅ Uso privado permitido
-- ⚠️ Sem garantias (fornecido "como está")
-- ⚠️ O autor não é responsável por danos
+
 
 ---
 
-**Desenvolvido com 🔐 para Segurança da Informação**
+**Desenvolvido por Matheus Lemos**
+
 
 **Lembre-se: Use esta ferramenta de forma responsável e apenas para fins legais.**
